@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hrvey832/hrvey832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 Theoretical physics student | Python & math enjoyer<br>Working on simulations and computational physics projects.<br>Currently working on an Exoplanet Hospitability Calculator with Python.<br>
